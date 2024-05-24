@@ -29,11 +29,6 @@ Welcome to **QuizKraft**, a cutting-edge GenAI Quiz Making Application built wit
 
 ---
 
-![Quiz Summary](src/images/3quiz.png)
-*Summary of a Generated Quiz*
-
----
-
 ## 🚀 Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine.
