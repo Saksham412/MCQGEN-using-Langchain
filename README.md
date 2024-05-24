@@ -3,15 +3,6 @@
 Welcome to **QuizKraft**, a cutting-edge GenAI Quiz Making Application built with Streamlit, Python, and Langchain. Create dynamic and engaging quizzes effortlessly and review their summaries with ease!
 
 ---
-## 🛠️ Technologies Used
-
-![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
-
-![Langchain Version](https://img.shields.io/badge/langchain-0.0.1-orange)
-
-![Streamlit Version](https://img.shields.io/badge/streamlit-1.0.0-brightgreen)
-
----
 ![Home Page](src/images/1quiz.png)
 *Home Page of QuizKraft*
 ---
@@ -31,9 +22,10 @@ Welcome to **QuizKraft**, a cutting-edge GenAI Quiz Making Application built wit
 
 ## 🛠️ Technologies Used
 
-- **Streamlit**: For building the interactive web app.
-- **Python**: Core programming language.
-- **Langchain**: For utilizing large language models (LLMs).
+- **Streamlit**: For building the interactive web app.![Streamlit Version](https://img.shields.io/badge/streamlit-1.0.0-brightgreen)
+- **Python**: Core programming language.![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+- **Langchain**: For utilizing large language models (LLMs). ![Langchain Version](https://img.shields.io/badge/langchain-0.0.1-orange)
+- **OpenAI API** : For Secure Connection with model![OpenAI API Version](https://img.shields.io/badge/openai--api-latest-blue)
 - **LLMChain & SequentialChain**: For efficient LLM operations.
 
 ---
